@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 待會呷啥?
 
-You can use the [editor on GitHub](https://github.com/sovereign2401/sovereign2401.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+又到了吃飯的時刻，琳瑯滿目的選擇讓你不知所措。嘴巴上說者隨便都可以，但內心其實還是有些偏好。要是有人能幫我篩選出符合我現在期望的餐點就好了...
+如果你也有同樣的困擾的話，「呷啥」將是你最好的幫手！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 來碗不會太飽、走路5分鐘可到、價位低於85元的義大利麵
 
-### Markdown
+「呷啥」會透過數個隨機的問題，篩選出最接近你現在想法的餐點。原本可能**30分鐘**都做不完的決定，現在只要**1分鐘**就能搞定。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 這間店不錯，下次來換吃個炸醬麵好了
 
-```markdown
-Syntax highlighted code block
+你是否曾經也有過在一家店裡有好幾個想吃得選擇卻只有一個胃的窘境呢？「呷啥」讓你儲存各式店家與餐點資訊，除了透過隨機問題篩選外，也可直接瀏覽先前的紀錄尋找想吃的美食。
 
-# Header 1
-## Header 2
-### Header 3
+### 菜雞學生需要你的幫忙
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sovereign2401/sovereign2401.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+身為一個寫程式不到半年的學生，尚未能創造最佳的「呷啥」用戶體驗。如果喜歡我的理念，歡迎各路大神協助壯大「呷啥」！
